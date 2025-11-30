@@ -191,7 +191,7 @@ B.Tech CSE
 Data Science Enthusiast  
 Python | Machine Learning | AI | Full Stack Learner  
 
-GitHub: https://github.com/vin9415
+GitHub: https://github.com/Prabh1234567
 
 ---
 
