@@ -1,7 +1,7 @@
 # 🧠 Kasparro Agentic FB Analyst — Multi-Agent AI Marketing Analytics System
 
-### **Author:** Vinit Kumar Pandey  
-### **GitHub:** https://github.com/vin9415/kasparro-agentic-fb-analyst-vinitkumarpandey  
+### **Author:** Prabhpreet Khanuja  
+### **GitHub:** https://github.com/Prabh1234567/kasparro-agentic-fb-analyst-PrabhpreetKhanuja 
 ### **Tech Stack:** Python, Pandas, Multi-Agent Architecture, Data Analytics
 
 ---
@@ -186,7 +186,7 @@ Highest ROAS Day: 2025-03-02
 
 ## 👨‍💻 Author
 
-**Vinit Kumar Pandey**  
+**Prabhpreet Khanuja**  
 B.Tech CSE  
 Data Science Enthusiast  
 Python | Machine Learning | AI | Full Stack Learner  
